@@ -66,3 +66,5 @@ In the assets folder you already have access to six random rock songs and their 
 The different views described in the requirements above doesen't necessarily have to be different HTML documents, they could share space in the same. It all depends on how you want to structure your application. Try to seperate as much as possible of course. It helps with readability.
 
 You only need one `<audio>` element in your application, and it should be hidden, since you are creating the controls on your own. 
+
+[Media Player](https://maichonok.github.io/Lexicon-js-music-player/)
